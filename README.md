@@ -46,7 +46,6 @@ Preview backend: [api-preview.zerochiamate.com](https://api-preview.zerochiamate
 - UX: minimalist UI
 - UX: WhatsApp-ready messages when add a user
 - UX: data seeding (default checklists seeded on signup) 
-- Signup / login
 - Email verification / Forgot password
 - File / image upload
 - Alert developer system when errors
