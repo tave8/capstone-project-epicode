@@ -2,6 +2,8 @@
 
 ZeroChiamate is a CRM software for small/medium-sized cleaning companies that want to stop coordinating everything on WhatsApp.
 
+The project has received interest and was leading to interesting collaboration opportunities.
+
 ## Links
 
 [Backend repo](https://github.com/tave8/operavion-crm-backend)
