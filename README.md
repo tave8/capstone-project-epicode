@@ -4,6 +4,11 @@ ZeroChiamate is a CRM software for small/medium-sized cleaning companies that wa
 
 The project has received interest and was leading to interesting collaboration opportunities.
 
+
+<p align="center">
+  <img src="zerochiamate_logo.png"/>
+</p>
+
 ## Links
 
 [Backend repo](https://github.com/tave8/operavion-crm-backend)
@@ -50,4 +55,5 @@ Preview backend: [api-preview.zerochiamate.com](https://api-preview.zerochiamate
 - 700+ commits
 - 40k lines of code
 - 400+ files
+
 
