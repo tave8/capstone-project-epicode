@@ -26,7 +26,7 @@ Preview backend: [api-preview.zerochiamate.com](https://api-preview.zerochiamate
 - Custom report / PDF / CSV generation from templates 
 - Notifications 
 - Add users to your company 
-- Alerts at custom intervals (daily, weekly etc.) with background jobs
+- Alerts at custom intervals (daily, weekly etc.)
 - Geocoding autocomplete
 - Map of clients worksites
 - Document text extraction / AI-powered document topic classifier
@@ -43,6 +43,7 @@ Preview backend: [api-preview.zerochiamate.com](https://api-preview.zerochiamate
 
 ## Facts
 
+- Designed & implemented my own domain architecture, background job, forgot password and many abstraction layers 
 - Deploy on Cloudflare & Railway
 - 700+ commits
 - 40k lines of code
