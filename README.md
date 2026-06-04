@@ -56,7 +56,7 @@ Preview backend: [api-preview.zerochiamate.com](https://api-preview.zerochiamate
 ## Facts
 
 - Designed & implemented my own domain architecture, background job, forgot password and many abstraction layers 
-- Deploy on Cloudflare & Railway
+- Deploy: Cloudflare (frontend), Railway (backend), Vercel (company page)
 - 700+ commits
 - 40k lines of code
 - 400+ files
