@@ -29,17 +29,23 @@ Preview backend: [api-preview.zerochiamate.com](https://api-preview.zerochiamate
 
 ## Features & Systems
 
+- Shifts availability calculations
+- Map of clients worksites
+- Add users to your own company / Multi-tenant
+- Different logins based on user role / Temporary password to reset on first login
+- On signup, create Stripe customer / Company can manage Stripe subscription
 - Send custom emails / from templates / with attachments
 - Custom report / PDF / CSV generation from templates 
 - Notifications 
-- Add users to your company 
 - Alerts at custom intervals (daily, weekly etc.)
 - Geocoding autocomplete
-- Map of clients worksites
 - Document text extraction / AI-powered document topic classifier
+- AI-powered document discrepancy detector ("Expectation vs Reality" workflows)
 - QR code generation
-- Backend-protected files 
-- Better UX with data seeding (less user input)
+- Backend-protected files (go through DB, not cloud provider's public URL)
+- UX: minimalist UI
+- UX: WhatsApp-ready messages when add a user
+- UX: data seeding (default checklists seeded on signup) 
 - Signup / login
 - Email verification / Forgot password
 - File / image upload
