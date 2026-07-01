@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://zerochiamate.com">
-    <img src="https://img.shields.io/badge/🌐%20zerochiamate.com-Visit%20Website-2563eb?style=for-the-badge&labelColor=1e293b" alt="Visit Website" height="50" />
+    <img src="https://img.shields.io/badge/🌐%20zerochiamate.com-Visit%20Website-2563eb?style=for-the-badge&labelColor=1e293b" alt="Visit Website" width="600" />
   </a>
 </p>
 
