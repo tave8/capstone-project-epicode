@@ -12,7 +12,9 @@ The project has received interest and was leading to interesting collaboration o
 
 
 <p align="center">
-  <img src="zerochiamate_logo.png"/>
+  <a href="https://zerochiamate.com">
+    <img src="zerochiamate_logo.png"/>
+  </a>
 </p>
 
 ## Links
