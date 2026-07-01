@@ -1,4 +1,4 @@
-# Capstone Project, Epicode - Giuseppe Tavella
+# Overview 
 
 <p align="center">
   <a href="https://zerochiamate.com">
