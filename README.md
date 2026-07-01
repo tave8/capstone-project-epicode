@@ -17,7 +17,7 @@ The project has received interest and was leading to interesting collaboration o
   </a>
 </p>
 
-## Links
+# Links
 
 [Backend repo](https://github.com/tave8/operavion-crm-backend)
 
@@ -35,7 +35,7 @@ Preview backend: [api-preview.zerochiamate.com](https://api-preview.zerochiamate
 
 [Original project proposal](https://docs.google.com/document/d/1EIdHb_cuk0CNfgaP7Ehr8ypcwA4ANBVfMc9PIN9Ngf4/edit?tab=t.5lrcmi48nyuv)
 
-## Features & Systems
+# Features & Systems
 
 - Shifts availability calculations
 - Map of clients worksites
@@ -61,7 +61,7 @@ Preview backend: [api-preview.zerochiamate.com](https://api-preview.zerochiamate
 - APIs & libraries: Resend, Stripe, Anthropic, Apache Tika, Thymelaf, Geoapify etc. 
 - Reusability and decoupling everywhere
 
-## Facts
+# Facts
 
 - Designed & implemented my own domain architecture, background job, forgot password and many abstraction layers 
 - Deploy: Cloudflare (frontend), Railway (backend), Vercel (company page)
